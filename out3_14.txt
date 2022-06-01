@@ -1,0 +1,1173 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="shortcut icon" type="image/x-icon" href="https://romspure.cc/wp-content/uploads/2020/05/favicon.png">
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<title>GB ROM - Nintendo Game Boy Download for Emulator/Console</title>
+<link rel="canonical" href="https://romspure.cc/roms/nintendo-game-boy/" />
+<link rel="next" href="https://romspure.cc/roms/nintendo-game-boy/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="GB ROM - Nintendo Game Boy Download for Emulator/Console" />
+<meta property="og:url" content="https://romspure.cc/roms/nintendo-game-boy/" />
+<meta property="og:site_name" content="ROMSPURE.CC" />
+<meta name="twitter:card" content="summary_large_image" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://romspure.cc/#website","url":"https://romspure.cc/","name":"ROMSPURE.CC","description":"Download original Nintendo &amp; Playstation ROMs &amp; ISOs","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://romspure.cc/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://romspure.cc/roms/nintendo-game-boy/#webpage","url":"https://romspure.cc/roms/nintendo-game-boy/","name":"GB ROM - Nintendo Game Boy Download for Emulator/Console","isPartOf":{"@id":"https://romspure.cc/#website"},"breadcrumb":{"@id":"https://romspure.cc/roms/nintendo-game-boy/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://romspure.cc/roms/nintendo-game-boy/"]}]},{"@type":"BreadcrumbList","@id":"https://romspure.cc/roms/nintendo-game-boy/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://romspure.cc/"},{"@type":"ListItem","position":2,"name":"Nintendo Game Boy"}]}]}</script>
+
+<link rel="alternate" type="application/rss+xml" title="ROMSPURE.CC &raquo; Feed" href="https://romspure.cc/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ROMSPURE.CC &raquo; Comments Feed" href="https://romspure.cc/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ROMSPURE.CC &raquo; Nintendo Game Boy Console Feed" href="https://romspure.cc/roms/nintendo-game-boy/feed/" />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://romspure.cc/wp-includes/css/dist/block-library/style.min.css?ver=5.8.4' type='text/css' media='all' />
+<link rel='stylesheet' id='k-bootstrap-css' href='https://romspure.cc/wp-content/themes/k/css/bootstrap.min.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='k-style-css' href='https://romspure.cc/wp-content/themes/k/style.css?ver=2.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://romspure.cc/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://romspure.cc/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://romspure.cc/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://romspure.cc/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://romspure.cc/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.8.4" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-89527130-10"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-89527130-10');
+</script>
+</head>
+<body class="archive tax-console term-nintendo-game-boy term-6651">
+<div id="div-gpt-ad-1631158523828-0"></div>
+<script>
+    googletag.cmd.push(function() { googletag.display(staticSlot); });
+</script>
+<div id="page" class="site">
+<a class="skip-link sr-only" href="#content">Skip to content</a>
+<header id="masthead" class="site-header">
+<div class="container d-flex align-items-center">
+<h2 class="h2 font-weight-bold text-uppercase mb-0 site-logo">
+<a class="text-primary" href="https://romspure.cc/" rel="home">
+ROMSPURE.CC </a>
+</h2>
+<nav class="ml-auto site-nav">
+<div class="d-flex d-md-none justify-content-end">
+<button class="bg-transparent border-0 py-2 px-3 site-nav-closer" type="button">
+<svg height="1.5rem" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z" /></svg>
+</button>
+</div>
+<ul id="menu-site-navigation" class="menu"><li id="menu-item-16248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-16248"><a href="https://romspure.cc/">Home</a></li>
+<li id="menu-item-19107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19107"><a href="https://romspure.cc/roms/">ROMS</a></li>
+<li id="menu-item-19106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19106"><a href="https://romspure.cc/emulators/">Emulators</a></li>
+<li id="menu-item-16243" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16243"><a href="https://romspure.cc/blog/">Blog</a></li>
+</ul>
+</nav>
+<button class="text-white bg-transparent border-0 d-md-none py-3 px-0 ml-auto site-nav-toggler" type="button">
+<svg height="1.75rem" fill="#fff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z" /></svg>
+</button>
+</div>
+</header>
+<div id="content" class="site-content">
+<div class="text-center">
+<div class="text-center" style="color: #909090;"><small>Advertisements</small></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6379699571015222" crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6379699571015222" data-ad-slot="6419107180" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script> </div>
+<div class="bg-light py-3">
+<div class="container">
+<ul id="breadcrumb" class="breadcrumb">
+<li class="breadcrumb-item home"><a href="https://romspure.cc" title="Home">Home</a></li>
+<li class="breadcrumb-item"><a href="https://romspure.cc/roms/" title="ROMS">ROMS</a></li>
+<li class="breadcrumb-item active">Nintendo Game Boy</li>
+</ul>
+</div>
+</div>
+<main id="primary" class="content-area">
+<section class="py-4">
+<div class="container">
+<header class="d-flex mb-4">
+<h1 class="h3 font-weight-bold text-uppercase mb-0">
+Nintendo Game Boy Roms
+</h1>
+<img class="ml-auto d-none d-md-inline-block" style="max-height: 2.25rem;" src="https://romspure.cc/wp-content/uploads/2020/06/nintendo.png" alt="Nintendo Game Boy">
+</header>
+<form class="" method="GET" action="https://romspure.cc/roms/nintendo-game-boy">
+<div class="row row-small">
+<div class="col-12 col-lg-4 col-small form-group input-group">
+<input class="form-control border-right-0 pr-0" type="text" name="search" placeholder="Search">
+<span class="input-group-append">
+<button class="btn border-left-0 pr-3" type="submit">
+<svg height="1rem" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M508.5 468.9L387.1 347.5c-2.3-2.3-5.3-3.5-8.5-3.5h-13.2c31.5-36.5 50.6-84 50.6-136C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c52 0 99.5-19.1 136-50.6v13.2c0 3.2 1.3 6.2 3.5 8.5l121.4 121.4c4.7 4.7 12.3 4.7 17 0l22.6-22.6c4.7-4.7 4.7-12.3 0-17zM208 368c-88.4 0-160-71.6-160-160S119.6 48 208 48s160 71.6 160 160-71.6 160-160 160z" /></svg>
+</button>
+</span>
+</div>
+<div class="col-6 col-md-3 col-lg col-small form-group">
+<select class="custom-select" name="genre" onchange="this.form.submit();">
+<option value="">Select Genre</option>
+<option value="action">Action</option>
+<option value="adventure">Adventure</option>
+<option value="beat-em-up">Beat 'em Up</option>
+<option value="board-game">Board Game</option>
+<option value="casino">Casino</option>
+<option value="education">Education</option>
+<option value="fighting">Fighting</option>
+<option value="flight-simulator">Flight Simulator</option>
+<option value="horror">Horror</option>
+<option value="life-simulation">Life Simulation</option>
+<option value="music">Music</option>
+<option value="party">Party</option>
+<option value="platform">Platform</option>
+<option value="puzzle">Puzzle</option>
+<option value="quiz">Quiz</option>
+<option value="racing">Racing</option>
+<option value="role-playing">Role-Playing</option>
+<option value="shooter">Shooter</option>
+<option value="sports">Sports</option>
+<option value="strategy">Strategy</option>
+<option value="vehicle-simulation">Vehicle Simulation</option>
+</select>
+</div>
+<div class="col-6 col-md-3 col-lg col-small form-group">
+<select class="custom-select" name="region" onchange="this.form.submit();">
+<option value="">Select Region</option>
+<option value="asia">Asia</option>
+<option value="australia">Australia</option>
+<option value="china">China</option>
+<option value="europe">Europe</option>
+<option value="france">France</option>
+<option value="germany">Germany</option>
+<option value="japan">Japan</option>
+<option value="korea">Korea</option>
+<option value="north-america">North America</option>
+<option value="spain">Spain</option>
+<option value="united-states">United States</option>
+<option value="world">World</option>
+</select>
+</div>
+<div class="col-6 col-md-3 col-lg col-small form-group">
+<select class="custom-select" name="developer" onchange="this.form.submit();">
+<option value="">Select Developer</option>
+<option value="a-wave">A Wave</option>
+<option value="a-i-co">A.I Co.</option>
+<option value="absolute-entertainment">Absolute Entertainment</option>
+<option value="access">Access</option>
+<option value="access-software">Access Software</option>
+<option value="act-japan">Act Japan</option>
+<option value="act-studio">Act Studio</option>
+<option value="advance-communication-company">Advance Communication Company</option>
+<option value="affect">Affect</option>
+<option value="agenda">Agenda.</option>
+<option value="aicom">Aicom</option>
+<option value="aisystem-tokyo">Aisystem Tokyo</option>
+<option value="algorithm-institute">Algorithm Institute</option>
+<option value="altron">Altron</option>
+<option value="amble">Amble</option>
+<option value="american-sammy">American Sammy</option>
+<option value="angel-studios">Angel Studios</option>
+<option value="another">Another</option>
+<option value="ape-inc">Ape Inc.</option>
+<option value="aqua-pacific">Aqua Pacific</option>
+<option value="arc-system-works">Arc System Works</option>
+<option value="arcadia">Arcadia</option>
+<option value="argonaut-software">Argonaut Software</option>
+<option value="argonaut-software-ltd">Argonaut Software Ltd.</option>
+<option value="ascii-corporation">ASCII Corporation</option>
+<option value="ascii-entertainment">ASCII Entertainment</option>
+<option value="ask-kodansha">ASK Kodansha</option>
+<option value="asuka-technologies">Asuka Technologies</option>
+<option value="atari">Atari</option>
+<option value="atari-games">Atari Games</option>
+<option value="atelier-double">Atelier Double</option>
+<option value="athena">Athena</option>
+<option value="atlus">Atlus</option>
+<option value="attention-to-detail">Attention to Detail</option>
+<option value="audio-visual-magic">Audio Visual Magic</option>
+<option value="audiogenic-ltd">Audiogenic Ltd.</option>
+<option value="avit">Avit</option>
+<option value="axela">Axela</option>
+<option value="b-i-t-s">B.I.T.S</option>
+<option value="bandai">Bandai</option>
+<option value="bandai-namco-studios-vancouver">BANDAI NAMCO Studios Vancouver</option>
+<option value="bandaii">Bandaii</option>
+<option value="banpresto">Banpresto</option>
+<option value="beam-software">Beam Software</option>
+<option value="bec">BEC</option>
+<option value="betop">Betop</option>
+<option value="big-five-software">Big Five Software</option>
+<option value="birthday">Birthday</option>
+<option value="bit-managers">Bit Managers</option>
+<option value="bitmasters">Bitmasters</option>
+<option value="bits-laboratory">Bits Laboratory</option>
+<option value="bits-studio">Bits Studio</option>
+<option value="bits-studios">Bits Studios</option>
+<option value="black-pearl">Black Pearl</option>
+<option value="blizzard-entertainment">Blizzard Entertainment</option>
+<option value="bonsai-entertainment-corp">Bonsai Entertainment Corp</option>
+<option value="borta">Borta</option>
+<option value="broderbund">Broderbund</option>
+ <option value="bullet-proof-software">Bullet-Proof Software</option>
+<option value="buzz-monkey">Buzz Monkey</option>
+<option value="c-lab">C-Lab</option>
+<option value="c-p-brain">C.P. Brain</option>
+<option value="capcom">Capcom</option>
+<option value="chunsoft">Chunsoft</option>
+<option value="citizen-software">Citizen Software</option>
+<option value="code-monkeys">Code Monkeys</option>
+<option value="codemasters">Codemasters</option>
+<option value="compile">Compile</option>
+<option value="condor">Condor</option>
+<option value="copya-system">Copya System</option>
+<option value="creatures">Creatures</option>
+<option value="culture-brain">Culture Brain</option>
+<option value="curves-studios">Curves Studios</option>
+<option value="cyclone-system">Cyclone System</option>
+<option value="daft">Daft</option>
+<option value="dark-technologies">Dark Technologies</option>
+<option value="data-design-interactive">Data Design Interactive</option>
+<option value="data-east">Data East</option>
+<option value="david-a-palmer-productions">David A. Palmer Productions</option>
+<option value="db-soft">dB-SOFT</option>
+<option value="denton-designs">Denton Designs</option>
+<option value="designer-software">Designer Software</option>
+<option value="dice">DiCE</option>
+<option value="dice-co-ltd">Dice Co. Ltd.</option>
+<option value="digital-kids">Digital Kids</option>
+<option value="distinctive-software">Distinctive Software</option>
+<option value="dma">DMA</option>
+<option value="dual">Dual</option>
+<option value="dust-scratch-games">Dust Scratch Games</option>
+<option value="ea-sports">EA SPorts</option>
+<option value="eastridge-technology">Eastridge Technology</option>
+<option value="electronic-arts">Electronic Arts</option>
+<option value="electronics-application">Electronics Application</option>
+<option value="elite-systems-ltd">Elite Systems Ltd.</option>
+<option value="enigma-variations">Enigma Variations</option>
+<option value="entertainment-int">Entertainment Int</option>
+<option value="epoch">Epoch</option>
+<option value="epoch-co">Epoch Co.</option>
+<option value="equilibrium">Equilibrium</option>
+<option value="ere-informatique">ERE Informatique</option>
+<option value="eurocom">Eurocom</option>
+<option value="eurocom-developments-ltd">Eurocom Developments Ltd</option>
+<option value="eurocom-entertainment-software">Eurocom Entertainment Software</option>
+<option value="extended-play-productions">Extended Play Productions</option>
+<option value="factor-5">Factor 5</option>
+<option value="fci">FCI</option>
+<option value="freeqsoft">Freeqsoft</option>
+<option value="fujicom">Fujicom</option>
+<option value="full-control">Full Control</option>
+<option value="gaibrain">Gaibrain</option>
+<option value="gainax">Gainax</option>
+<option value="gainax-micro-cabin">Gainax &amp; Micro Cabin</option>
+<option value="game-arts">Game Arts</option>
+<option value="game-freak">Game Freak</option>
+<option value="game-over">Game Over</option>
+<option value="genki">Genki</option>
+<option value="geo-factory">Geo Factory</option>
+<option value="glass-ghost">Glass Ghost</option>
+<option value="graphic-research">Graphic Research</option>
+<option value="graphic-research-co">Graphic Research Co.</option>
+<option value="gremlin-graphics">Gremlin Graphics</option>
+<option value="gremlin-interactive">Gremlin Interactive</option>
+<option value="hal">HAL</option>
+<option value="hal-laboratory">HAL Laboratory</option>
+<option value="hal-labs">HAL Labs</option>
+<option value="halestorm">Halestorm</option>
+<option value="hect">Hect</option>
+<option value="hewson-consultants">Hewson Consultants</option>
+<option value="hookstone-productions">Hookstone Productions</option>
+<option value="hot-b">Hot-B</option>
+<option value="hudson">Hudson</option>
+<option value="hudson-soft">Hudson Soft</option>
+<option value="hudson-soft-company">Hudson Soft Company</option>
+<option value="human-entertaiment">Human Entertaiment</option>
+<option value="human-entertainment">Human Entertainment</option>
+<option value="imax">I'Max</option>
+<option value="idea-software">Idea Software</option>
+<option value="igs">IGS</option>
+<option value="images-software">Images Software</option>
+<option value="imagesoft">Imagesoft</option>
+<option value="imagineering">Imagineering</option>
+<option value="imagineering-inc">Imagineering Inc</option>
+<option value="imagineering-radical-entertainment">Imagineering Radical Entertainment</option>
+<option value="imagitec-design">Imagitec Design</option>
+<option value="inc">Inc.</option>
+<option value="infinity">Infinity</option>
+<option value="infogrames">Infogrames</option>
+<option value="information-global-services">Information Global Services</option>
+<option value="intelligent-systems">Intelligent Systems</option>
+<option value="inter-state">Inter State</option>
+<option value="interbec">Interbec</option>
+<option value="interplay">Interplay</option>
+<option value="irem">Irem</option>
+<option value="itl">ITL</option>
+<option value="j-wing">J-Wing</option>
+<option value="jaleco">Jaleco</option>
+<option value="jaleco-entertainment">Jaleco Entertainment</option>
+<option value="jaleco-ltd">Jaleco Ltd.</option>
+<option value="japan-art-media">Japan Art Media</option>
+<option value="japan-system-house">Japan System House</option>
+<option value="japan-system-supply">Japan System Supply</option>
+<option value="jorudan">Jorudan</option>
+<option value="jowood-entertainment-ag">JowooD Entertainment AG</option>
+<option value="jupiter">Jupiter</option>
+<option value="jupiter-corp">Jupiter Corp.</option>
+<option value="jupiter-corporation">Jupiter Corporation</option>
+<option value="jupiter-multimedia">Jupiter Multimedia</option>
+<option value="kans">Kan's</option>
+<option value="kawada">Kawada</option>
+<option value="kaze">KaZe</option>
+<option value="kce-nagoya">KCE Nagoya</option>
+<option value="kemco">Kemco</option>
+<option value="kid">Kid</option>
+<option value="kid-corp">KID Corp.</option>
+<option value="kitty-group">Kitty Group</option>
+<option value="klon">Klon</option>
+<option value="koei">Koei</option>
+<option value="koei-inis">Koei/Inis</option>
+<option value="konami">Konami</option>
+<option value="konami-computer-entertainment-shinjuku">Konami Computer Entertainment Shinjuku</option>
+<option value="kotobuki-system">Kotobuki System</option>
+<option value="kotobuki-system-co">Kotobuki System Co.</option>
+<option value="laguna-video-games">Laguna Video Games</option>
+<option value="leaf">Leaf</option>
+<option value="lenar">Lenar</option>
+<option value="live-planning">Live Planning</option>
+<option value="locus">Locus</option>
+<option value="loriciel-sa">Loriciel SA</option>
+<option value="loriciels">Loriciels</option>
+<option value="ltd">Ltd.</option>
+<option value="lucasarts">LucasArts</option>
+<option value="magical-company">Magical Company</option>
+<option value="magnin-and-associates">Magnin and Associates</option>
+<option value="make">Make</option>
+<option value="malibu">Malibu</option>
+<option value="malibu-games">Malibu Games</option>
+<option value="marionette">Marionette</option>
+<option value="mateo">Mateo</option>
+<option value="maxis">Maxis</option>
+<option value="midway">Midway</option>
+<option value="millenium-interactive">Millenium Interactive</option>
+<option value="minakuchi-engineering">Minakuchi Engineering</option>
+<option value="minato-giken">Minato Giken</option>
+<option value="mindscape">Mindscape</option>
+<option value="mitchell-corporation">Mitchell Corporation</option>
+<option value="morning-star-multimedia">Morning Star Multimedia</option>
+<option value="motivetime">MotiveTime</option>
+<option value="motivetime-ltd">Motivetime Ltd.</option>
+<option value="movietime-ltd">MovieTime Ltd.</option>
+<option value="mto-co">MTO Co.</option>
+<option value="multimedia-intelligence-transfer">Multimedia Intelligence Transfer</option>
+<option value="namco">Namco</option>
+<option value="natsu">Natsu</option>
+<option value="natsu-system">Natsu System</option>
+<option value="natsume">Natsume</option>
+<option value="naxat">NAXAT</option>
+<option value="ncs">NCS</option>
+<option value="new-frontier">New Frontier</option>
+<option value="nichibutsu">Nichibutsu</option>
+<option value="nihon-bussan-co">Nihon Bussan Co.</option>
+<option value="nine-lives">Nine Lives</option>
+<option value="nintendo">Nintendo</option>
+<option value="nintendo-ead">Nintendo EAD</option>
+<option value="nintendo-rd1">Nintendo R&amp;D1</option>
+<option value="nmk">NMK</option>
+<option value="nms-software">NMS Software</option>
+<option value="nms-software-ltd">NMS Software Ltd.</option>
+<option value="nova">Nova</option>
+<option value="nova-games">Nova Games</option>
+<option value="nova-games-ltd">Nova Games Ltd</option>
+<option value="nova-logic">Nova Logic</option>
+<option value="novalogic">Novalogic</option>
+<option value="now-production">Now Production</option>
+<option value="obsidian-entertainment">Obsidian Entertainment</option>
+<option value="ocarina-system">Ocarina System</option>
+<option value="ocean">Ocean</option>
+<option value="ocean-software">Ocean Software</option>
+<option value="ocean-software-ltd">Ocean Software Ltd.</option>
+<option value="oersted">OeRSTED</option>
+<option value="onion-software">Onion Software</option>
+<option value="opera-house">Opera House</option>
+<option value="origin-systems">ORIGIN Systems</option>
+<option value="outback">Outback</option>
+<option value="pack-in-video">Pack-In-Video</option>
+<option value="pack-in-video-co">Pack-In-Video Co.</option>
+<option value="painting-by-numbers">Painting by Numbers</option>
+<option value="palcom">Palcom</option>
+<option value="pandora-box">Pandora Box</option>
+<option value="park-place">Park Place</option>
+<option value="pasta-games">Pasta Games</option>
+<option value="pax-softnica">Pax Softnica</option>
+<option value="pcsl">PCSL</option>
+<option value="pixel">Pixel</option>
+<option value="playful-corp">Playful Corp.</option>
+<option value="pony-canyon">Pony Canyon</option>
+<option value="power-and-magic-development">Power and Magic Development</option>
+<option value="probe">Probe</option>
+<option value="probe-entertainment">Probe Entertainment</option>
+<option value="probe-entertainment-limited">Probe Entertainment Limited</option>
+<option value="probe-software">Probe Software</option>
+<option value="publishing-international">Publishing International</option>
+<option value="quest">Quest</option>
+<option value="r-takahashi">R. Takahashi</option>
+<option value="radical-entertainment">Radical Entertainment</option>
+<option value="random-house">Random House</option>
+<option value="rare">Rare</option>
+<option value="rare-ltd">Rare Ltd</option>
+<option value="realtime-associates">Realtime Associates</option>
+<option value="realtime-associates-seattle">Realtime Associates Seattle</option>
+<option value="red-company">Red Company</option>
+<option value="romstar">Romstar</option>
+<option value="saffire">Saffire</option>
+<option value="sales-curve">Sales Curve</option>
+<option value="sammy">Sammy</option>
+<option value="sas-sakata">SAS Sakata</option>
+<option value="scea-san-diego-studios">SCEA San Diego Studios</option>
+<option value="scritron-art-inc">Scritron &amp; Art Inc.</option>
+<option value="sculptured-software">Sculptured Software</option>
+<option value="sega">Sega</option>
+<option value="sensible-software">Sensible Software</option>
+<option value="seta">SETA</option>
+<option value="seta-corporation">SETA Corporation</option>
+<option value="shimada-kikaku">Shimada Kikaku</option>
+<option value="shiny-entertaiment">Shiny Entertaiment</option>
+<option value="shouei">Shouei</option>
+<option value="shouei-system">Shouei System</option>
+<option value="sigma-enterprises">Sigma Enterprises</option>
+<option value="sigma-pro-tech">Sigma Pro-Tech</option>
+<option value="sir-tech-software">Sir-tech Software</option>
+<option value="snk">SNK</option>
+<option value="sofel">Sofel</option>
+<option value="sofix">Sofix</option>
+<option value="software-creations">Software Creations</option>
+<option value="software-creations-ltd">Software Creations Ltd.</option>
+<option value="source-research-development-ltd">Source Research &amp; Development Ltd</option>
+<option value="special-fx">Special FX</option>
+<option value="spidersoft">Spidersoft</option>
+<option value="square">Square</option>
+<option value="starfish">Starfish</option>
+<option value="sun-l">Sun L</option>
+<option value="sunl">SunL</option>
+<option value="sunsoft">Sunsoft</option>
+<option value="synapse-software-corporation">Synapse Software Corporation</option>
+<option value="system-3">System 3</option>
+<option value="systemsoft">SystemSoft</option>
+<option value="te-soft">T&amp;E Soft</option>
+<option value="taito">Taito</option>
+<option value="taito-corporation">Taito Corporation</option>
+<option value="takara">Takara</option>
+<option value="tamtam">TamTam</option>
+<option value="tamtex">Tamtex</option>
+<option value="tao-human-systems">Tao Human Systems</option>
+<option value="tarantula-studios">Tarantula Studios</option>
+<option value="taxan">Taxan</option>
+<option value="team-17">Team 17</option>
+<option value="technos">Technos</option>
+<option value="technos-japan">Technōs Japan</option>
+<option value="teeny-weeny-games">Teeny Weeny Games</option>
+<option value="tengen">Tengen</option>
+<option value="teque-interactive">Teque Interactive</option>
+<option value="the-code-monkeys">The Code Monkeys</option>
+<option value="the-sales-curve-ltd">The Sales Curve Ltd.</option>
+<option value="the-software-toolworks">The Software Toolworks</option>
+<option value="thinking-rabbit">Thinking Rabbit</option>
+<option value="thq">THQ</option>
+<option value="tiertex-design-studios">Tiertex Design Studios</option>
+<option value="tiertex-ltd">Tiertex Ltd.</option>
+<option value="titus">Titus</option>
+<option value="titus-france">Titus France</option>
+<option value="titus-france-sa">Titus France SA</option>
+<option value="titus-software">Titus Software</option>
+<option value="toaplan">ToaPlan</option>
+<option value="toei-animation">Toei Animation</option>
+<option value="toei-animation-co">Toei Animation Co.</option>
+<option value="tokuma-shoten">Tokuma Shoten</option>
+<option value="tom-create">Tom Create</option>
+<option value="tomcat-system">Tomcat System</option>
+<option value="tomy">TOMY</option>
+<option value="tomy-corporation">Tomy Corporation</option>
+<option value="tonkin-house">Tonkin House</option>
+<option value="torus-games">Torus Games</option>
+<option value="tose">TOSE</option>
+<option value="tose-co">Tose Co.</option>
+<option value="tose-software-co">TOSE Software Co.</option>
+<option value="towa-chiki">Towa Chiki</option>
+<option value="twilight">Twilight</option>
+<option value="twilight-games">Twilight Games</option>
+<option value="ukiyotei-company">Ukiyotei Company</option>
+<option value="ultra">Ultra</option>
+<option value="unexpected-development">Unexpected Development</option>
+<option value="use">Use</option>
+<option value="use-corporation">Use Corporation</option>
+<option value="varie">Varie</option>
+<option value="velez-dubail">Velez &amp; Dubail</option>
+<option value="vic-tokai">Vic Tokai</option>
+<option value="victor-interactive-software">Victor Interactive Software</option>
+<option value="video-system">Video System</option>
+<option value="virgin-games">Virgin Games</option>
+<option value="virgin-interactive">Virgin Interactive</option>
+<option value="virgin-mastertronic">Virgin Mastertronic</option>
+<option value="virtual-studio">Virtual Studio</option>
+<option value="visit">Visit</option>
+<option value="visual-concepts">Visual Concepts</option>
+<option value="visual-impact">Visual Impact</option>
+<option value="williams">Williams</option>
+<option value="winky-soft">Winky Soft</option>
+<option value="winkysoft">Winkysoft</option>
+<option value="wisdom-tree">Wisdom Tree</option>
+<option value="wizard">Wizard</option>
+<option value="xanth-software-f-x">Xanth Software F/X</option>
+<option value="yoshidayama-workshop">Yoshidayama Workshop</option>
+<option value="yutaka">Yutaka</option>
+<option value="zener-works">Zener Works</option>
+<option value="zoo-corporation">ZOO Corporation</option>
+</select>
+</div>
+<div class="col-6 col-md-3 col-lg col-small form-group">
+<select class="custom-select" name="publisher" onchange="this.form.submit();">
+<option value="">Select Publisher</option>
+<option value="21st-century-entertainment-ltd">21st Century Entertainment Ltd.</option>
+<option value="a-wave">A Wave</option>
+<option value="absolute-entertainment">Absolute Entertainment</option>
+<option value="access-software">Access Software</option>
+<option value="acclaim">Acclaim</option>
+<option value="accolade">Accolade</option>
+<option value="activision">Activision</option>
+<option value="altron">Altron</option>
+<option value="american-sammy">American Sammy</option>
+<option value="angel">Angel</option>
+<option value="angel-bandai">Angel (BANDAI)</option>
+<option value="animoca">Animoca</option>
+<option value="aqua-plus">Aqua Plus</option>
+<option value="ascii-corporation">ASCII Corporation</option>
+<option value="ascii-entertaiment">ASCII Entertaiment</option>
+<option value="ascii-entertainment">Ascii Entertainment</option>
+<option value="ask">ASK</option>
+<option value="ask-kodansha-co">ASK Kodansha Co.</option>
+<option value="asmik">Asmik</option>
+<option value="asmik-ace-entertainment">Asmik Ace Entertainment</option>
+<option value="asmik-ace-entertainment-inc">Asmik Ace Entertainment Inc.</option>
+<option value="atari">Atari</option>
+<option value="atari-games">Atari Games</option>
+<option value="athena">Athena</option>
+<option value="atlus">Atlus</option>
+<option value="axela">Axela</option>
+<option value="b-ai">B-AI</option>
+<option value="banalex">Banalex</option>
+<option value="bandai">Bandai</option>
+<option value="bandai-co">Bandai Co.</option>
+<option value="bandai-shinsei">Bandai Shinsei</option>
+<option value="banpresto">Banpresto</option>
+<option value="bec">BEC</option>
+<option value="black-label-games">Black Label Games</option>
+<option value="black-pearl">Black Pearl</option>
+<option value="black-pearl-software">Black Pearl Software</option>
+<option value="bottom-up">Bottom Up</option>
+<option value="bullet-proof-software">Bullet-Proof Software</option>
+<option value="capcom">Capcom</option>
+<option value="cbs-sony-group">CBS Sony Group</option>
+<option value="character-soft">Character Soft</option>
+<option value="chunsoft">Chunsoft</option>
+<option value="coconuts-japan">Coconuts Japan</option>
+<option value="coconuts-japan-entertainment-co">Coconuts Japan Entertainment Co.</option>
+<option value="compile">Compile</option>
+<option value="csg-imagesoft-inc">CSG Imagesoft Inc.</option>
+<option value="culture-brain">Culture Brain</option>
+<option value="cyberfront">CyberFront</option>
+<option value="data-east">Data East</option>
+<option value="disney-interactive">Disney Interactive</option>
+<option value="dtmc">DTMC</option>
+<option value="dust-scratch-games">Dust Scratch Games</option>
+<option value="ea-sports">EA Sports</option>
+<option value="electro-brain">Electro Brain</option>
+<option value="electronic-arts">Electronic Arts</option>
+<option value="electronic-arts-victor">Electronic Arts Victor</option>
+<option value="elite-systems-ltd">Elite Systems Ltd.</option>
+<option value="enix-corporation">Enix Corporation</option>
+<option value="epoch">Epoch.</option>
+<option value="extreme-entertainment-group">Extreme Entertainment Group</option>
+<option value="fci">FCI</option>
+<option value="fci-inc">FCI Inc.</option>
+<option value="fox-interactive">Fox Interactive</option>
+<option value="fujicom-co-ltd">Fujicom Co. Ltd</option>
+<option value="fujisankei-communications-international">Fujisankei Communications International</option>
+<option value="full-control">Full Control</option>
+<option value="gametek">GameTek</option>
+<option value="gametek-uk-ltd">GameTek UK Ltd.</option>
+<option value="gaps">Gaps</option>
+<option value="grolier-interactive">Grolier Interactive</option>
+<option value="gt-interactive">GT Interactive</option>
+<option value="hal">HAL</option>
+<option value="hal-laboratory">HAL Laboratory</option>
+<option value="hect">Hect</option>
+<option value="hi-tech-expressions">Hi Tech Expressions</option>
+<option value="hi-tech">Hi-Tech</option>
+<option value="hiro">Hiro</option>
+<option value="horikawa-otane">Horikawa Otane</option>
+<option value="hot-b">Hot-B</option>
+<option value="hudson">Hudson</option>
+<option value="hudson-soft">Hudson Soft</option>
+<option value="hudson-soft-co">Hudson Soft Co.</option>
+<option value="hudson-soft-company">Hudson Soft Company</option>
+<option value="human-entertainment">Human Entertainment</option>
+<option value="imax">I'Max</option>
+<option value="igs">IGS</option>
+<option value="igs-japan">IGS (Japan)</option>
+<option value="imagineer">Imagineer</option>
+<option value="imagineer-co">Imagineer Co.</option>
+<option value="in-house">In-House</option>
+<option value="inc">Inc.</option>
+<option value="infogrames">Infogrames</option>
+<option value="infogrames-europe-sa">Infogrames Europe SA</option>
+<option value="infogrames-multimedia-sa">Infogrames Multimedia SA</option>
+<option value="information-global-services">Information Global Services</option>
+<option value="interbec">Interbec</option>
+<option value="interplay">Interplay</option>
+<option value="interplay-productions">Interplay Productions</option>
+<option value="irem">Irem</option>
+<option value="irem-corp">Irem Corp.</option>
+<option value="j-wing">J-Wing</option>
+<option value="jaleco">Jaleco</option>
+<option value="jaleco-entertainment">Jaleco Entertainment</option>
+<option value="jaleco-ltd">Jaleco Ltd.</option>
+<option value="japan-clary-business">Japan Clary Business</option>
+<option value="japan-system-supply">Japan System Supply</option>
+<option value="jowood-entertainment-ag">JoWooD Entertainment AG</option>
+<option value="jvc-musical-industries">JVC Musical Industries</option>
+<option value="kaneko">Kaneko</option>
+<option value="kemco">Kemco</option>
+<option value="kid-corp">KID Corp.</option>
+<option value="king-records">King Records</option>
+<option value="koei">Koei</option>
+<option value="konami">Konami</option>
+<option value="konami-co">Konami Co.</option>
+<option value="konami-computer-entertainment">Konami Computer Entertainment</option>
+<option value="kotobuki-system">Kotobuki System</option>
+<option value="kotobuki-system-co">Kotobuki System Co.</option>
+<option value="kss">KSS</option>
+<option value="laguna">Laguna</option>
+<option value="laguna-video-games">Laguna Video Games</option>
+<option value="laser-beam-entertainment">Laser Beam Entertainment</option>
+<option value="ljn">LJN</option>
+<option value="ljn-ltd">LJN Ltd.</option>
+<option value="loriciels-ltd">Loriciels Ltd.</option>
+<option value="lozc-g-amusements">LOZC/G. Amusements</option>
+<option value="ltd">Ltd.</option>
+<option value="magical-company">Magical Company</option>
+<option value="magifact">Magifact</option>
+<option value="majesco">Majesco</option>
+<option value="malibu">Malibu</option>
+<option value="malibu-games">Malibu Games</option>
+<option value="malibu-interactive-ea-sports">Malibu Interactive/EA Sports</option>
+<option value="masaya">Masaya</option>
+<option value="matchbox-international-ltd">Matchbox International Ltd</option>
+<option value="meldac">Meldac</option>
+<option value="micro-world">Micro World</option>
+<option value="microprose">MicroProse</option>
+<option value="milton-bradley">Milton Bradley</option>
+<option value="mindscape">Mindscape</option>
+<option value="mindscape-gmbh">Mindscape GmbH</option>
+<option value="namco">Namco</option>
+<option value="namco-ltd">Namco Ltd.</option>
+<option value="namcot">Namcot</option>
+<option value="natsume">Natsume</option>
+<option value="naxat-soft">Naxat Soft</option>
+<option value="ncs">NCS</option>
+<option value="nec">NEC</option>
+<option value="nec-interchannel">NEC Interchannel</option>
+<option value="nexoft">Nexoft</option>
+<option value="nexoft-corporation">NEXOFT Corporation</option>
+<option value="nichibutsu">Nichibutsu</option>
+<option value="nihon-bussan-co">Nihon Bussan Co.</option>
+<option value="nihon-falcom-corp">Nihon Falcom Corp.</option>
+<option value="nintendo">Nintendo</option>
+<option value="nintendo-co">Nintendo Co.</option>
+<option value="nintendo-of-america-inc">Nintendo of America Inc.</option>
+<option value="nippon-telenet">Nippon Telenet</option>
+<option value="nova">Nova</option>
+<option value="ntvic">NTVIC</option>
+<option value="ocean">Ocean</option>
+<option value="ocean-software">Ocean Software</option>
+<option value="ocean-software-ltd">Ocean Software Ltd.</option>
+<option value="pack-in-video">Pack-In-Video</option>
+<option value="pack-in-video-co">Pack-In-Video Co.</option>
+<option value="palcom">Palcom</option>
+<option value="parker-bros">Parker Bros.</option>
+<option value="parker-brothers">Parker Brothers</option>
+<option value="pasta-games">Pasta Games</option>
+<option value="piko-interactive">Piko Interactive</option>
+<option value="playful-corp">Playful Corp.</option>
+<option value="playmates-interactive">Playmates Interactive</option>
+<option value="pony-canyon">Pony Canyon</option>
+<option value="pow">Pow</option>
+<option value="quest">Quest</option>
+<option value="romstar">Romstar</option>
+<option value="sammy">Sammy</option>
+<option value="sammy-studios">Sammy Studios</option>
+<option value="scee">SCEE</option>
+<option value="sega">Sega</option>
+<option value="seta">SETA</option>
+<option value="seta-corporation">SETA Corporation</option>
+<option value="shingakusha">Shingakusha</option>
+<option value="shogakukan-production">Shogakukan Production</option>
+<option value="shouei">Shouei</option>
+<option value="sigma-ent-inc">Sigma Ent. Inc</option>
+<option value="sigma-enterprises">Sigma Enterprises</option>
+<option value="snk">SNK</option>
+<option value="sofel">Sofel</option>
+<option value="sony-computer-entertainment">Sony Computer Entertainment</option>
+<option value="sony-imagesoft">Sony Imagesoft</option>
+<option value="spectrum-holobyte">Spectrum Holobyte</option>
+<option value="square">Square</option>
+<option value="starfish">Starfish</option>
+<option value="storm">Storm</option>
+<option value="sun-corporation">Sun Corporation</option>
+<option value="sunsoft">Sunsoft</option>
+<option value="synapse-software-corporation">Synapse Software Corporation</option>
+<option value="te-soft">T&amp;E Soft</option>
+<option value="taito">Taito</option>
+<option value="taito-corporation">Taito Corporation</option>
+<option value="takara">Takara</option>
+<option value="takara-u-s-a-corp">TAKARA U.S.A. CORP.</option>
+<option value="take-two-interactive">Take Two Interactive</option>
+<option value="taxan">Taxan</option>
+<option value="technos-japan">Technos Japan</option>
+<option value="technos-japan-corp">Technos Japan Corp.</option>
+<option value="tecmo">Tecmo</option>
+<option value="thq">THQ</option>
+<option value="thq-inc">THQ Inc.</option>
+<option value="time-warner-interactive">Time Warner Interactive</option>
+<option value="titus">Titus</option>
+<option value="titus-france-sa">Titus France SA</option>
+<option value="titus-interactive">Titus Interactive</option>
+<option value="titus-software">Titus Software</option>
+<option value="toei-animation">Toei Animation</option>
+<option value="toei-animation-co">Toei Animation Co.</option>
+<option value="toho">Toho</option>
+<option value="tokinhouse">Tokinhouse</option>
+<option value="tokuma-shoten">Tokuma Shoten</option>
+<option value="tomy">Tomy</option>
+<option value="tomy-company">Tomy Company</option>
+<option value="tomy-corporation">Tomy Corporation</option>
+<option value="tonkin-house">Tonkin House</option>
+<option value="tonkinhouse">Tonkinhouse</option>
+<option value="towa-chiki">Towa Chiki</option>
+<option value="tradewest">Tradewest</option>
+<option value="triffix">Triffix</option>
+<option value="tsukuda-original">Tsukuda Original</option>
+<option value="u-s-gold">U.S. Gold</option>
+<option value="ubi-soft-entertainment-software">Ubi Soft Entertainment Software</option>
+<option value="ubisoft">Ubisoft</option>
+<option value="ultra-games">Ultra Games</option>
+<option value="use-corporation">Use Corporation</option>
+<option value="vap">Vap</option>
+<option value="varie">Varie</option>
+<option value="vatical">Vatical</option>
+<option value="viacom-new-media">Viacom New Media</option>
+<option value="vic-tokai">Vic Tokai</option>
+<option value="victor-entertainment">Victor Entertainment</option>
+<option value="victor-interactive-software">Victor Interactive Software</option>
+<option value="victor-musical-industries">Victor Musical Industries</option>
+<option value="video-system">Video System</option>
+<option value="virgin-games">Virgin Games</option>
+<option value="virgin-interactive">Virgin Interactive</option>
+<option value="virgin-interactive-entertainment">Virgin Interactive Entertainment</option>
+<option value="virgin-mastertronic">Virgin Mastertronic</option>
+<option value="visit">Visit</option>
+<option value="williams">Williams</option>
+<option value="wisdom-tree">Wisdom Tree</option>
+<option value="yanoman">Yanoman</option>
+<option value="yanoman-corporation">Yanoman Corporation</option>
+<option value="yojigen">Yojigen</option>
+<option value="yonezawa-pr21">Yonezawa PR21</option>
+<option value="yukata">Yukata</option>
+<option value="yutaka">Yutaka</option>
+</select>
+</div>
+</div>
+</form>
+<table class="table table-striped border">
+<thead class="thead-dark">
+<tr>
+<th class="text-uppercase" style="width: 90px;">Image</th>
+<th class="text-uppercase">
+<a class="text-white" href="/roms/nintendo-game-boy?orderby=name&order=ASC">
+<span class="align-middle mr-1">Title</span>
+<svg fill="#fff" height="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M156.718 404.24l-67.994 72.002c-4.732 5.01-12.713 5.014-17.448 0L3.283 404.24C-3.883 396.652 1.428 384 12.007 384H56V44c0-6.627 5.373-12 12-12h24c6.627 0 12 5.373 12 12v340h43.994c10.587 0 15.884 12.658 8.724 20.24zm105.853-188.933A12 12 0 0 1 251.036 224h-29.133c-8.22 0-14.007-8.078-11.362-15.861l57.097-168A11.999 11.999 0 0 1 278.999 32h35.894c5.139 0 9.708 3.273 11.362 8.139l57.097 168c2.645 7.783-3.141 15.861-11.362 15.861h-29.172a12 12 0 0 1-11.515-8.622l-8.793-29.977h-51.367l-8.572 29.906zm21.463-73.942h25.606l-8.822-30.655c-1.277-4.419-2.651-9.992-3.871-15.241-1.221 5.251-2.595 10.824-3.872 15.245l-9.041 30.651zm7.486 292.104c2.274-2.654 4.985-6.056 7.929-10.235l69.819-99.06a11.999 11.999 0 0 0 2.191-6.913V300c0-6.627-5.373-12-12-12H236.493c-6.627 0-12 5.373-12 12v22.61c0 6.627 5.373 12 12 12h59.682c1.652 0 3.213-.03 4.655-.078-2.274 2.653-4.984 6.055-7.927 10.233l-69.56 98.542a12.001 12.001 0 0 0-2.196 6.92V468c0 6.627 5.373 12 12 12h127.599c6.627 0 12-5.373 12-12v-22.61c0-6.627-5.373-12-12-12h-64.571c-1.652 0-3.213.031-4.655.079z" /></svg>
+</a>
+</th>
+<th class="text-uppercase text-center d-none d-md-table-cell" style="width: 100px;">
+<a class="text-white" href="/roms/nintendo-game-boy?orderby=rating_avg&order=ASC">
+<span class="align-middle mr-1">Rating</span>
+<svg fill="#fff" height="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 176h-24V48a16 16 0 0 0-16-16h-36a16 16 0 0 0-13.57 7.52l-20 32A16 16 0 0 0 304 96h24v80h-24a16 16 0 0 0-16 16v16a16 16 0 0 0 16 16h96a16 16 0 0 0 16-16v-16a16 16 0 0 0-16-16zm-56 80a72 72 0 0 0 0 144 71.1 71.1 0 0 0 18.84-2.82 59.56 59.56 0 0 1-42.32 34.42A15.84 15.84 0 0 0 308 447.16v16.77a16 16 0 0 0 18.71 15.83A108.19 108.19 0 0 0 416 373.38V328a72.08 72.08 0 0 0-72-72zm0 96a24 24 0 1 1 24-24 24 24 0 0 1-24 24zm-180 32h-44V48a16 16 0 0 0-16-16H88a16 16 0 0 0-16 16v336H28a12 12 0 0 0-8.73 20.24l68 72a12 12 0 0 0 17.44 0l68-72A12 12 0 0 0 164 384z" /></svg>
+</a>
+</th>
+<th class="text-uppercase text-center" style="width: 150px;">
+<a class="text-white" href="/roms/nintendo-game-boy?orderby=downloads&order=ASC">
+<span class="align-middle mr-1">Downloads</span>
+<svg fill="#fff" height="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 176h-24V48a16 16 0 0 0-16-16h-36a16 16 0 0 0-13.57 7.52l-20 32A16 16 0 0 0 304 96h24v80h-24a16 16 0 0 0-16 16v16a16 16 0 0 0 16 16h96a16 16 0 0 0 16-16v-16a16 16 0 0 0-16-16zm-56 80a72 72 0 0 0 0 144 71.1 71.1 0 0 0 18.84-2.82 59.56 59.56 0 0 1-42.32 34.42A15.84 15.84 0 0 0 308 447.16v16.77a16 16 0 0 0 18.71 15.83A108.19 108.19 0 0 0 416 373.38V328a72.08 72.08 0 0 0-72-72zm0 96a24 24 0 1 1 24-24 24 24 0 0 1-24 24zm-180 32h-44V48a16 16 0 0 0-16-16H88a16 16 0 0 0-16 16v336H28a12 12 0 0 0-8.73 20.24l68 72a12 12 0 0 0 17.44 0l68-72A12 12 0 0 0 164 384z" /></svg>
+</a>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589292629-87be423f-5888-4f5f-bab2-c76dcefaeb01-300x299.jpg" href="https://romspure.cc/roms/nintendo-game-boy/the-legend-of-zelda-links-awakening-2/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/the-legend-of-zelda-links-awakening-2/">The Legend of Zelda: Link&#39;s Awakening</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="4" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">3,062</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589292259-1b8cf118-e112-4979-bf3e-8df14975dd11-300x299.jpg" href="https://romspure.cc/roms/nintendo-game-boy/game-watch-gallery/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/game-watch-gallery/">Game &amp; Watch Gallery</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="5" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">2,904</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589293442-5b04d1ad-06b1-411d-a8fc-d2e9def07aa8-300x300.jpg" href="https://romspure.cc/roms/nintendo-game-boy/super-mario-land/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/super-mario-land/">Super Mario Land</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="2.4" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">2,297</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589293444-905e6085-6f44-47f5-bdd5-dbbbf9ca5df8-300x300.png" href="https://romspure.cc/roms/nintendo-game-boy/super-mario-land-2-6-golden-coins/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/super-mario-land-2-6-golden-coins/">Super Mario Land 2: 6 Golden Coins</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="4" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">2,265</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589292720-6dc029bd-80e7-4a0d-850f-6d398f47559f-300x352.jpg" href="https://romspure.cc/roms/nintendo-game-boy/mega-man-ii/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/mega-man-ii/">Mega Man II</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="5" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">1,621</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589293520-f1514adc-27cb-4a30-8fee-a9bcb52c21cb-300x300.jpg" href="https://romspure.cc/roms/nintendo-game-boy/tetris/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/tetris/">Tetris</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="2.3333333333333" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">1,461</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589292088-833fe365-2595-41c9-bf2c-1f2b38185305-300x300.jpg" href="https://romspure.cc/roms/nintendo-game-boy/donkey-kong-land-iii/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/donkey-kong-land-iii/">Donkey Kong Land III</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="5" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">1,231</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589293097-92127a4f-a1d6-42af-a678-b155c47433e6-300x300.png" href="https://romspure.cc/roms/nintendo-game-boy/pokemon-red/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/pokemon-red/">Pokemon Red++</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="4.5555555555556" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">1,124</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589293654-639f682a-44c5-4a4e-880e-f8a783bb4a32-300x269.jpg" href="https://romspure.cc/roms/nintendo-game-boy/wario-land-super-mario-land-3/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/wario-land-super-mario-land-3/">Wario Land: Super Mario Land 3</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="4.3333333333333" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">1,117</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589292081-d83a28ce-3e0b-41d9-ba84-055d18fbd0a0-300x303.jpg" href="https://romspure.cc/roms/nintendo-game-boy/donkey-kong-2/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/donkey-kong-2/">Donkey Kong</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="4.6666666666667" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">1,117</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589292127-67fedc0e-e6d3-48b8-9762-2e8f50a133bc-300x300.jpg" href="https://romspure.cc/roms/nintendo-game-boy/dr-mario/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/dr-mario/">Dr. Mario</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="5" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">1,080</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589292723-afd10877-a295-4d68-9552-7ae9d33a6b94-300x300.png" href="https://romspure.cc/roms/nintendo-game-boy/mega-man-iii/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/mega-man-iii/">Mega Man III</a>
+</td>
+ <td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="5" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">960</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589292083-420fc90a-9a51-4f80-a3c1-787b11df16aa-300x300.jpg" href="https://romspure.cc/roms/nintendo-game-boy/donkey-kong-land/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/donkey-kong-land/">Donkey Kong Land</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="5" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">873</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589293652-9d049fe7-7380-46c5-8a51-512e814bb9c7-300x300.jpg" href="https://romspure.cc/roms/nintendo-game-boy/wario-land-ii/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/wario-land-ii/">Wario Land II</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="3" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">873</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589292745-acc2919c-6c0a-4734-8553-dfb37b6abd96-300x300.png" href="https://romspure.cc/roms/nintendo-game-boy/metroid-ii-return-of-samus/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/metroid-ii-return-of-samus/">Metroid II: Return of Samus</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="5" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">868</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589292997-a55e8620-3247-4304-9bac-7ea8070d2228-300x299.jpg" href="https://romspure.cc/roms/nintendo-game-boy/pac-man-2/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/pac-man-2/">Pac-Man</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="4" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">864</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589293101-cf53d8e9-b817-43d9-b517-a34e5dd0feb9-300x269.jpg" href="https://romspure.cc/roms/nintendo-game-boy/pokmon-yellow-version-special-pikachu-edition/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/pokmon-yellow-version-special-pikachu-edition/">Pok&#233;mon Yellow Version Special Pikachu Edition</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="5" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">856</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589292264-dbf7abbf-4d62-44cc-8768-da02005a5344-300x300.jpg" href="https://romspure.cc/roms/nintendo-game-boy/game-boy-gallery/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/game-boy-gallery/">Game Boy Gallery</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="5" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">783</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589291943-74ac3b1b-48c0-4873-abf9-02889b6dd8bc-300x298.jpg" href="https://romspure.cc/roms/nintendo-game-boy/castlevania-the-adventure/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/castlevania-the-adventure/">Castlevania: The Adventure</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="5" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">779</td>
+</tr>
+<tr>
+<td class="align-middle">
+<a class="embed-responsive embed-responsive-1by1 bg-cover rounded d-block lazyload" data-bg="https://romspure.cc/wp-content/uploads/2020/05/1589292576-3b8dd34f-b388-4dd2-b7a0-ed8fda811334-300x346.png" href="https://romspure.cc/roms/nintendo-game-boy/kirbys-dream-land/"></a>
+</td>
+<td class="align-middle">
+<a class="h6 font-weight-semibold text-body mb-0" href="https://romspure.cc/roms/nintendo-game-boy/kirbys-dream-land/">Kirby&#39;s Dream Land</a>
+</td>
+<td class="text-uppercase text-center align-middle d-none d-md-table-cell">
+<div class="d-inline-block rating" data-rateyo-rating="5" data-rateyo-read-only="true"></div>
+</td>
+<td class="text-uppercase text-center align-middle">743</td>
+</tr>
+</tbody>
+</table>
+<nav class='nav-pagination'><ul class='pagination'><li class='page-item active'><a class='page-link' href='#'>1</a></li><li class='page-item'><a class='page-link' href='https://romspure.cc/roms/nintendo-game-boy/page/2/' class="inactive">2</a></li><li class="page-item"><a class="page-link" aria-label="Next" href="https://romspure.cc/roms/nintendo-game-boy/page/2/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><path d="M24.707 38.101L4.908 57.899c-4.686 4.686-4.686 12.284 0 16.971L185.607 256 4.908 437.13c-4.686 4.686-4.686 12.284 0 16.971L24.707 473.9c4.686 4.686 12.284 4.686 16.971 0l209.414-209.414c4.686-4.686 4.686-12.284 0-16.971L41.678 38.101c-4.687-4.687-12.285-4.687-16.971 0z" /></svg></a></li><li class="page-item"><a class="page-link" href="https://romspure.cc/roms/nintendo-game-boy/page/54/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M57.7 38.1l209.4 209.4c4.7 4.7 4.7 12.3 0 17L57.7 473.9c-4.7 4.7-12.3 4.7-17 0l-19.8-19.8c-4.7-4.7-4.7-12.3 0-17L201.6 256 20.9 74.9c-4.7-4.7-4.7-12.3 0-17l19.8-19.8c4.7-4.7 12.3-4.7 17 0zm143 0l-19.8 19.8c-4.7 4.7-4.7 12.3 0 17L361.6 256 180.9 437.1c-4.7 4.7-4.7 12.3 0 17l19.8 19.8c4.7 4.7 12.3 4.7 17 0l209.4-209.4c4.7-4.7 4.7-12.3 0-17L217.7 38.1c-4.7-4.7-12.3-4.7-17 0z" /></svg></a></li></ul></nav> </div>
+</section>
+</main>
+</div>
+<footer id="colophon" class="small site-footer">
+<nav class="text-white pt-4 pb-3 footer-nav">
+<div class="container">
+<ul id="menu-footer-navigation" class="nav justify-content-center menu"><li id="menu-item-89307" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89307"><a href="https://modyolo.com">MODYOLO &#8211; Best MOD APK Site</a></li>
+<li id="menu-item-19113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19113"><a href="https://romspure.cc/roms/">ROMS</a></li>
+<li id="menu-item-19112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19112"><a href="https://romspure.cc/emulators/">Emulators</a></li>
+<li id="menu-item-19115" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19115"><a href="https://romspure.cc/blog/">Blog</a></li>
+<li id="menu-item-19109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-19109"><a href="https://romspure.cc/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-19111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19111"><a href="https://romspure.cc/disclaimer/">Disclaimer &#038; DMCA</a></li>
+<li id="menu-item-19114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19114"><a href="https://romspure.cc/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-19110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19110"><a href="https://romspure.cc/contact/">Contact</a></li>
+</ul> </div>
+</nav>
+<div class="text-white pt-4 pb-2 footer-copyright">
+<div class="container d-flex flex-column flex-lg-row align-items-center justify-content-between">
+<div class="h2 font-weight-bold text-uppercase mb-3 footer-logo">
+<a class="text-primary" href="https://romspure.cc/" rel="home">
+ROMSPURE.CC </a>
+</div>
+<div>
+<p>Copyright © 2020 ROMSPURE &#8211; All rights reserved</p>
+</div>
+<nav class="mb-4 footer-social-networks">
+<a href="https://facebook.com" target="_blank" rel="nofollow">
+<svg height="16px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z" /></svg> </a>
+<a href="https://twitter.com" target="_blank" rel="nofollow">
+<svg height="16px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z" /></svg> </a>
+<a href="https://pinterest.com" target="_blank" rel="nofollow">
+<svg height="16px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M204 6.5C101.4 6.5 0 74.9 0 185.6 0 256 39.6 296 63.6 296c9.9 0 15.6-27.6 15.6-35.4 0-9.3-23.7-29.1-23.7-67.8 0-80.4 61.2-137.4 140.4-137.4 68.1 0 118.5 38.7 118.5 109.8 0 53.1-21.3 152.7-90.3 152.7-24.9 0-46.2-18-46.2-43.8 0-37.8 26.4-74.4 26.4-113.4 0-66.2-93.9-54.2-93.9 25.8 0 16.8 2.1 35.4 9.6 50.7-13.8 59.4-42 147.9-42 209.1 0 18.9 2.7 37.5 4.5 56.4 3.4 3.8 1.7 3.4 6.9 1.5 50.4-69 48.6-82.5 71.4-172.8 12.3 23.4 44.1 36 69.3 36 106.2 0 153.9-103.5 153.9-196.8C384 71.3 298.2 6.5 204 6.5z" /></svg> </a>
+</nav>
+</div>
+</div>
+</footer>
+</div>
+<div class="modal fade" id="modal-report-broken-links" tabindex="-1" role="dialog">
+<div class="modal-dialog modal-lg" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h4 class="modal-title">Enter the text of your complaints</h4>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<i class="fal fa-times"></i>
+</button>
+</div>
+<div class="modal-body">
+<form class="form-report-broken-links" method="POST" action="">
+<input type="hidden" name="action" value="k_report_broken_links">
+<input type="hidden" name="post_id" value="41673">
+<div class="form-group">
+<textarea class="form-control" rows="5" name="message"></textarea>
+</div>
+<div class="form-group text-right">
+<button class="btn btn-primary" type="submit">Send</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="modal-result" tabindex="-1" role="dialog">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h4 class="modal-title">Result</h4>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<i class="fal fa-times"></i>
+</button>
+</div>
+<div class="modal-body"></div>
+</div>
+</div>
+</div>
+<script type='text/javascript' id='rocket-browser-checker-js-after'>
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script type='text/javascript' id='rocket-preload-links-js-extra'>
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(.+\/)?feed\/?.+\/?|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/wp-admin\/|\/logout\/|\/wp-login.php","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|php|pdf|html|htm","siteUrl":"https:\/\/romspure.cc","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type='text/javascript' id='rocket-preload-links-js-after'>
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script type='text/javascript' src='https://romspure.cc/wp-content/themes/k/js/bootstrap.min.js?ver=2' id='k-bootstrap-js'></script>
+<script type='text/javascript' id='k-site-js-extra'>
+/* <![CDATA[ */
+var ajax = {"ajax_url":"https:\/\/romspure.cc\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://romspure.cc/wp-content/themes/k/js/site.js?ver=2.2' id='k-site-js'></script>
+<script type='text/javascript' src='https://romspure.cc/wp-includes/js/wp-embed.min.js?ver=5.8.4' id='wp-embed-js'></script>
+</body>
+</html>
